@@ -1,5 +1,6 @@
  
-## Assestment
+## Assessment
+
 ### In Cypress automated the following flow for the website: https://www.demoblaze.com/index.html ###
 ### Flow 1:
 ### Steps:
